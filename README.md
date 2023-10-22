@@ -6,7 +6,7 @@ Welcome to my GitHub repository! This repository contains various files and proj
 
 Here's an image related to AI:
 
-![AI Image](2nd pic.PNG)
+![AI Image]('https://github.com/arzzahid66/Audio-or-text-to-imgage-Generation-/blob/main/2nd%20pic.PNG')
 
 Feel free to explore the repository to find more exciting content!
 
