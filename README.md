@@ -6,7 +6,7 @@ Welcome to my GitHub repository! This repository contains various files and proj
 
 Here's an image related to AI:
 
-![AI Image](https://github.com/yourusername/yourrepository/raw/main/ai.jpg)
+![AI Image](2nd pic.PNG)
 
 Feel free to explore the repository to find more exciting content!
 
